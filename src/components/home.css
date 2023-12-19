@@ -83,7 +83,10 @@
   }
   .chat{
     position: fixed;
-    top:
+    top:90px;
+    left:1150px;
+    border-radius: 30px;
+    border: 0;
   }
   
   .emergency-button {
@@ -93,8 +96,8 @@
     border-radius: 15px;
     border: 0;
     position: fixed;
-    top:520px;
-    right:120px;
+    top:570px;
+    right:90px;
     padding: 9px;
   }
   
