@@ -20,7 +20,7 @@ function Home(){
     <div className="backgroundhome">
         <label className='rajya-label'> Welcome to Rajya Sahayog</label>
         <label className='team-label'>Xenial Y2K</label>
-        <button className="defence-button" onClick={tochatbot}><label className='defence-label'> Ministry of Defence</label></button>
+        <button className="defence-button" onClick={tochatbot}></button>
       <button className="aviation-button" onClick={tochatbot}><label className='aviation-label'> Civil Aviation</label></button>
       <button className="homeaffairs-button" onClick={tochatbot}><label className='homeaffairs-label'>Home Affairs</label></button>
       <button className="emergency-button" onClick={handleButtonClick}>{iframeVisible ? '' : ''}
