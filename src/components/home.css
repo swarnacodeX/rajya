@@ -12,13 +12,16 @@
     
 .team-label{
    position: fixed;
-   left:1400px;
+   left:1370px;
+   top:10px;
    color: white;
+   font-size: 25px;
 }
 .rajya-label{
     font-size: 40px;
     color: rgb(247, 250, 252);
-    
+    font-family: 'Abril Fatface', serif;
+    top:10px;
     position: fixed;
     left:525px;
     
@@ -33,7 +36,7 @@
   position: fixed;
     color: white;
     top:360px;
-    left:930px;
+    left:690px;
 }
 
   
@@ -45,7 +48,7 @@
     padding: 100px 100px;
     border-radius: 15px;
     top:180px;
-    left:300px;
+    left:400px;
     border: 0;
     background-image: url('https://i.pinimg.com/564x/07/8b/27/078b27538f559bc5b730af2254ba9bff.jpg');
     background-size: cover;
@@ -56,16 +59,29 @@
     position: fixed;
     font-size: 20px;
     color: white;
-    padding: 108px 45px 70px 46px;
+    padding: 100px 100px;
     border-radius: 15px;
     top:180px;
-    left:590px;
-    border-width: 7px;
+    left:930px;
+    border-width: 0px;
     border-color: white;
     background-image: url('https://i.pinimg.com/564x/12/2a/d4/122ad4ee941380d84dea9bfba3462f5f.jpg');
     background-size: cover;
     color: transparent;
     
+  }
+  .teacher-button{
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    padding: 100px 100px;
+    border-radius: 15px;
+    top:460px;
+    left:930px;
+    border: 0;
+    background-image: url('https://i.pinimg.com/564x/72/4b/1f/724b1fb8c46d725dcf2adc58a7dfd788.jpg');
+    background-size: cover;
+    color: transparent;
   }
   
   .aviation-button {
@@ -75,8 +91,8 @@
     border: 0;
     padding: 100px 100px;
     border-radius: 15px;
-    top:180px;
-    left:930px;
+    top:460px;
+    left:400px;
     background-image: url('https://i.pinimg.com/564x/0c/e4/c0/0ce4c04db6dc21013c52a43647e34759.jpg');
     background-size: cover;
     color: transparent;
@@ -85,7 +101,7 @@
   .chat{
     position: fixed;
     top:90px;
-    left:1150px;
+    left:1170px;
     border-radius: 30px;
     border: 0;
   }

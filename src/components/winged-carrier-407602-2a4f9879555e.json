@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "winged-carrier-407602",
+  "private_key_id": "2a4f9879555e8b6cdf5fd8dfd900ca3c07c604dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDApCwyi73dqCnA\nm4j+kOoIk3GrjDiYw6ZI8Tl6z+v20Lxi6fXmYCrJKozo7wh5noIAQZRIhDgfiII5\nHl9XmQynVuYxMMl2ah8zNKxEGsYD0tD6S0ltOdhb6dYFpQr9l3GCmQ6KQYlHY70O\ntE+LNyjEx4SoJ/budR8sRk3U6fbxENezHhh76N0ttATM6w7i+f3i7/jwZJVJ6K0n\nW7vzPjhCIaS6cw6AwTHaex8HECOFLHOGiblEa8yypUXX7YzxfhO4XvKejpQ88FUt\nktdVio2Wodi/p4U9nczz+fDOxEz+7rHBRphX1Zn/g2+Tari0x/FWVdSjHCqsIWpi\n61HSgpwPAgMBAAECggEAIzH7ZzKzuhr+odNoyIWmVHHHuz1Pm81nBH2Z8E+rfzjs\nqi+vfusD9iPhga8mP74PZ0eT9Vm+vTgd/pyHc8QhFTOhs8wDirBhyeOuM3Umx00N\nZCU8IYoHdud2dCqOov03vlIDX4wQrivRPy3/OGKX/rerC2Pdz/wy+U5Q6vzh4nHM\n6uV74VZXmJiLlYZuomtVDCxJxdoLeazCXjH/X95M++8SnFaFHSHH0S6QkL7ZxBC0\nLxeewiO3/drVgKTlEFfmSseHc9vjUJ67RSOX+ou29AoH1IJtIbg8lKwnArNfhC6M\nSyvjmzxo6NRjJ6f/HZLZXTUJDYa4wn7AaVjd63HTJQKBgQD+QpFmsMIwVu3Rs3dW\n7Pgi1ELl9BHw7QbE4qarYDvGCFBL0trJGIjNWF6I3rg6lI6UR0duXx57hs+YQdHI\nrKasZCBc+YbgEUQVvHAiXEcMyGz0ZyuUXasABKmorjZBx3C2+CRyL1PfbCVQJMtf\n5OutHslPpfAr/OaecFvNEDO0mwKBgQDB9agDT4udOMeV4wGQfuLgQLBNxLoCj5Ia\nfgVN8HXO35nwSqMtHZVClrxY8D4dMh3cg8bw0Fw6Kggg5x8edSmIu3v5TUFy7XyM\n16BLM31OM/e5muW32Yl+sdQvZJyT9HO3rZoevIuaf+0osxye1O2pL3gd7DYR1jpA\n4uS24QmbnQKBgG7uOiPUgJS4iH/STgHl14jSlPFg4Cb+MtLZlB/3F30aCXZbY0sT\nYjQ9FtmeWkBsqhw1UQvtgg4gzhe+t7lW4k0aTihiUZ8WyV62XTIQkosYMrka/h94\nEnAqmJ7YiyF900Zw0u3iijRTKaBivTx0UwKwCOKwIi3+49tCaDr6k6R7AoGAVDnD\n4uQpAXYFnX39UOz4wl708GBsUe5ciKqOzSCNV+9bXrBamZ3OEiN42LpCjtUTiI2k\n1y/zzMIx02/p4IUKKzkXBdRZhnnAazy7e8x5Lnt8qJmuBZ8uiNjaBlaPc+RkV6/I\nTG6dxNKmftUAqaxXI+/cHkpT1H0NwN2Gai/gxzUCgYEAqf6tSmJH1tcIsvATai7b\n4VUodxUyss2jlWgZeoTsL9qRKVjMFS9kvqfgYpd0Iwvk37dIPVvt0bo40OGkfu+Q\nGWpQZDg0k1D6FaGQwNGoqkO4TG4Jj4GcXa4t4aWysE3EiTlheyO7j6V5wYY/ja2O\nfv7l4yFirZtrBTyNltt6AUE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@winged-carrier-407602.iam.gserviceaccount.com",
+  "client_id": "103616265625433816933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40winged-carrier-407602.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
