@@ -1,0 +1,96 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}.backgroundhome{
+  background-image: url("https://img.freepik.com/free-vector/gradient-technology-background_23-2148884153.jpg?w=996&t=st=1702964955~exp=1702965555~hmac=a6be161dd8c64da2c07af80980f969cb170941c135823c3ec2da4db5cd30c498");
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vw;
+
+}
+    
+.team-label{
+   position: fixed;
+   left:1400px;
+   color: white;
+}
+.rajya-label{
+    font-size: 40px;
+    color: rgb(247, 250, 252);
+    
+    position: fixed;
+    left:560px;
+    
+}
+.defence-label{
+    position: fixed;
+    color: white;
+    top:360px;
+    left: 420px;
+}
+.aviation-label{
+  position: fixed;
+    color: white;
+    top:360px;
+    left:930px;
+}
+
+  
+  
+  .defence-button {
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    padding: 100px 100px;
+    border-radius: 15px;
+    top:180px;
+    left:420px;
+    border: 0;
+    background-image: url('https://i.pinimg.com/564x/8f/6f/65/8f6f655b07a071cef2b5d8ba75ed2375.jpg');
+    background-size: cover;
+    color: transparent;
+    
+  }
+  .homeaffairs-button {
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    padding: 70px 70px;
+    border-radius: 15px;
+    top:180px;
+    left:590px;
+    border: 0;
+    background-image: url('https://i.pinimg.com/564x/8f/6f/65/8f6f655b07a071cef2b5d8ba75ed2375.jpg');
+    background-size: cover;
+    color: transparent;
+    
+  }
+  
+  .aviation-button {
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    border: 0;
+    padding: 100px 100px;
+    border-radius: 15px;
+    top:180px;
+    left:930px;
+    background-image: url('https://i.pinimg.com/564x/5c/74/5d/5c745d6492b7eb744e0e60521fb855a2.jpg');
+    background-size: cover;
+    color: transparent;
+
+  }
+  
+  .emergency-button {
+    position: fixed;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.774);
+    border-radius: 15px;
+    border: 0;
+    position: fixed;
+    top:520px;
+    right:120px;
+    padding: 9px;
+  }
+  

@@ -1,0 +1,31 @@
+/* Import Font Awesome CSS */
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+input[type="text"] {
+  position: fixed;
+    background-color: aliceblue;
+    position: fixed;
+    top:600px;
+    left:250px;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    border-radius: 24px;
+    font-size: 16px;
+    border:0px;
+  
+    
+    width: 980px; /* Adjust the width as needed */
+  }
+
+  
+ 
+.submitbutton{
+  position: fixed;
+  background-color: aliceblue;
+  border: 0px;
+  
+  font-size:20px;
+  left: 1199px;
+  top: 607px;
+ 
+}
