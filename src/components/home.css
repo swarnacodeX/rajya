@@ -9,6 +9,15 @@
   min-width: 100vw;
 
 }
+.logout{
+  position: fixed;
+  background-color: rgb(255, 255, 255);
+  left:1390px;
+  top:640px;
+  width: 80px;
+  height:80px;
+  border-radius: 90px;
+}
     
 .team-label{
    position: fixed;
