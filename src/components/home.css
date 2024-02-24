@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 }.backgroundhome{
-  background-image: url("https://i.pinimg.com/564x/c7/be/46/c7be4604d5d43093cf54c5cb4650c02f.jpg");
+  background-image:url('./government.jpeg');
   background-size: cover;
   min-height: 100vh;
   min-width: 100vw;
@@ -23,19 +23,19 @@
    position: fixed;
    left:1370px;
    top:10px;
-   color: white;
+   color: rgb(0, 0, 0);
    font-size: 25px;
 }
 .rajya-label{
-    font-size: 40px;
-    color: rgb(247, 250, 252);
-    font-family: 'Abril Fatface', serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, serif;
     top:10px;
+    font-weight: bold; 
     position: fixed;
     left:525px;
-    
 }
-.defence-label{
+/* .defence-label{
     position: fixed;
     color: white;
     top:360px;
@@ -46,7 +46,7 @@
     color: white;
     top:360px;
     left:690px;
-}
+} */
 
   
   
@@ -56,8 +56,8 @@
     color: white;
     padding: 100px 100px;
     border-radius: 15px;
-    top:180px;
-    left:400px;
+    top:145px;
+    left:355px;
     border: 0;
     background-image: url('https://i.pinimg.com/564x/07/8b/27/078b27538f559bc5b730af2254ba9bff.jpg');
     background-size: cover;
@@ -68,13 +68,14 @@
     position: fixed;
     font-size: 20px;
     color: white;
+    max-width: fit-content;
     padding: 100px 100px;
     border-radius: 15px;
-    top:180px;
-    left:930px;
+    top:145px;
+    left:940px;
     border-width: 0px;
     border-color: white;
-    background-image: url('https://i.pinimg.com/564x/12/2a/d4/122ad4ee941380d84dea9bfba3462f5f.jpg');
+    background-image: url('https://i.pinimg.com/564x/ab/84/8e/ab848eed97e19478ca11f40b9586cb0c.jpg');
     background-size: cover;
     color: transparent;
     
@@ -85,8 +86,8 @@
     color: white;
     padding: 100px 100px;
     border-radius: 15px;
-    top:460px;
-    left:930px;
+    top:145px;
+    left:1210px;
     border: 0;
     background-image: url('https://i.pinimg.com/564x/72/4b/1f/724b1fb8c46d725dcf2adc58a7dfd788.jpg');
     background-size: cover;
@@ -100,8 +101,8 @@
     border: 0;
     padding: 100px 100px;
     border-radius: 15px;
-    top:460px;
-    left:400px;
+    top:145px;
+    left:90px;
     background-image: url('https://i.pinimg.com/564x/0c/e4/c0/0ce4c04db6dc21013c52a43647e34759.jpg');
     background-size: cover;
     color: transparent;
