@@ -2,21 +2,23 @@
 *{
   margin: 0;
   padding: 0;
-}.backgroundhome{
+}
+.backgroundhome{
   background-image:url('./government.jpeg');
   background-size: cover;
   min-height: 100vh;
   min-width: 100vw;
 
 }
-.logout{
+
+.logout {
   position: fixed;
   background-color: rgb(255, 255, 255);
-  left:1390px;
-  top:640px;
+  left: calc(100vw - 145px); /* Adjust based on desired distance from the right edge */
+  top: calc(100vh - 90px); /* Adjust based on desired distance from the bottom edge */
   width: 80px;
-  height:80px;
-  border-radius: 90px;
+  height: 80px;
+  border-radius: 50%;
 }
     
 .team-label{
