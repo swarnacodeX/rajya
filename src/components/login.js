@@ -44,6 +44,8 @@ function Login () {
           />
           <h1>               </h1>
         </div>
+        <div><p className='loginlabel'>USE TO VIEW PROJECT email:shubhangandas7366+john@gmail.com
+          password:1234</p></div>
         <button className="login-button" onClick={handleLogin}>Sign In</button>
       </div>
       </div>
