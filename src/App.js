@@ -36,7 +36,8 @@ const App = () => {
     <Router>
       <Routes>
       <Route path="/" element={<Login />} />
-      <Route path="/home" element={session?.access_token ?<Home/>:<Login/> }/>
+      <Route path="/home" element={session?.access_token ?<Home/>:<Home/> }/>
+      
       </Routes>
     </Router>
   );
